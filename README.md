@@ -1,63 +1,64 @@
 
+# 🚀 C Programming Project Showcase
 
-# 🚀 SafwanGanz's C Programming Projects
+Hey there! I'm **SafwanGanz**, a passionate coder exploring the world of programming with some cool projects. Below, you'll find a collection of my work, primarily built with **C**—because who doesn’t love a challenge? Dive in, explore, and feel free to contribute or drop feedback!
 
-Welcome to my GitHub repository, showcasing all my C programming projects! These projects demonstrate my skills in C, covering algorithms, data structures, system programming, and more. Feel free to explore, fork, or contribute!
-
-## 📌 Featured Projects
-
-### 1️⃣ Student Marks Sort
-**Description:** A program to input students' marks, assign grades, sort them in descending order, and perform linear search.
-- **Technologies:** C
-- **Features:**
-  - Accepts student marks
-  - Assigns grades based on marks
-  - Sorts marks in descending order
-  - Implements linear search
-
-🔗 [View Source Code](https://github.com/SafwanGanz/Student-Marks-Sort)
+![C](https://img.shields.io/badge/Language-C-blue?style=flat-square&logo=c) ![GitHub followers](https://img.shields.io/github/followers/SafwanGanz?style=flat-square&logo=github) ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 ---
 
-### 2️⃣ Bubble Sort Algorithm
-**Description:** An implementation of the Bubble Sort algorithm in C to sort an array of numbers.
-- **Technologies:** C
-- **Features:**
-  - Sorts an array using Bubble Sort
-  - Displays sorted output step-by-step
+## 🌟 Featured Projects
 
-🔗 [View Source Code](https://github.com/SafwanGanz/Bubble-Sort)
+### 1. [Student Record](https://github.com/SafwanGanz/student_record)
+A simple yet powerful tool to manage student records, built in C. Perfect for organizing student data efficiently.
 
----
+- **Features**: Add, view, and manage student details.
+- **Tech**: C programming.
+- **Status**: [![GitHub last commit](https://img.shields.io/github/last-commit/SafwanGanz/student_record?style=flat-square)](https://github.com/SafwanGanz/student_record/commits)
 
-### 3️⃣ Linked List Implementation
-**Description:** A complete implementation of singly linked lists in C with various operations.
-- **Technologies:** C
-- **Features:**
-  - Insert, delete, and search elements
-  - Display linked list elements
-  - Memory-efficient implementation
+### 2. [C Language Quiz](https://github.com/SafwanGanz/c-lang_quiz)
+Test your C programming skills with this interactive quiz application! Great for learners and enthusiasts alike.
 
-🔗 [View Source Code](https://github.com/SafwanGanz/Linked-List)
+- **Features**: Multiple-choice questions, score tracking.
+- **Tech**: Pure C.
+- **Status**: [![GitHub last commit](https://img.shields.io/github/last-commit/SafwanGanz/c-lang_quiz?style=flat-square)](https://github.com/SafwanGanz/c-lang_quiz/commits)
 
----
+### 3. [Student Marksheet v2](https://github.com/SafwanGanz/student_marksheet_v2-c_lang)
+An upgraded version of a student marksheet generator in C. Handles grades and records with finesse.
 
-### 4️⃣ Simple Calculator
-**Description:** A basic C program that performs arithmetic operations.
-- **Technologies:** C
-- **Features:**
-  - Addition, subtraction, multiplication, and division
-  - User-friendly console interface
+- **Features**: Input marks, calculate grades, and display results.
+- **Tech**: C programming.
+- **Status**: [![GitHub last commit](https://img.shields.io/github/last-commit/SafwanGanz/student_marksheet_v2-c_lang?style=flat-square)](https://github.com/SafwanGanz/student_marksheet_v2-c_lang/commits)
 
-🔗 [View Source Code](https://github.com/SafwanGanz/Simple-Calculator)
+### 4. [Casino Game](https://github.com/Syntaxtrail/casino-game) *(Collaborated)*
+A fun casino-style game I contributed to. Roll the dice and try your luck!
+
+- **Features**: Randomized gameplay, user interaction.
+- **Tech**: C or similar (check repo for details).
+- **Status**: [![GitHub last commit](https://img.shields.io/github/last-commit/Syntaxtrail/casino-game?style=flat-square)](https://github.com/Syntaxtrail/casino-game/commits)
 
 ---
 
-## 📬 Contact Me
-If you have any suggestions or want to collaborate, reach out to me!
-- **GitHub:** [SafwanGanz](https://github.com/SafwanGanz)
-- **Email:** [Your Email Here]
+## 🛠️ How to Run These Projects
+
+1. **Clone the repo**:
+   ```bash
+   git clone https://github.com/SafwanGanz/[repository-name].git
+   ```
+2. **Compile** (assuming a C project):
+   ```bash
+   gcc main.c -o program
+   ```
+3. **Run**:
+   ```bash
+   ./program
+   ```
+
+Check each repo’s specific instructions for any dependencies or setup steps!
 
 ---
 
-🚀 *Happy Coding!*
+## 🌐 Connect with Me
+
+- 📍 GitHub: [SafwanGanz](https://github.com/SafwanGanz)
+- 💬 Reach out: Open an issue or PR—I’d love to hear from you!
