@@ -1,5 +1,5 @@
 
-# 🚀 C Programming Project Showcase
+# 🚀 C Programming Projects
 
 Hey there! I'm **SafwanGanz**, a passionate coder exploring the world of programming with some cool projects. Below, you'll find a collection of my work, primarily built with **C**—because who doesn’t love a challenge? Dive in, explore, and feel free to contribute or drop feedback!
 
